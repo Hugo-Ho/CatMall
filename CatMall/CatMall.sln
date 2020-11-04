@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{44674757-2D3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIGateWay", "APIGateWay", "{22B0150C-9C19-4F7E-AE17-99A4E479E01B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{D56B0218-CF8B-4568-841D-135D165D46FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{0A173B9C-B03D-4091-A8B7-7785EFECD296}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A173B9C-B03D-4091-A8B7-7785EFECD296}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A173B9C-B03D-4091-A8B7-7785EFECD296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56B0218-CF8B-4568-841D-135D165D46FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56B0218-CF8B-4568-841D-135D165D46FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56B0218-CF8B-4568-841D-135D165D46FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56B0218-CF8B-4568-841D-135D165D46FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +32,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{0A173B9C-B03D-4091-A8B7-7785EFECD296} = {22B0150C-9C19-4F7E-AE17-99A4E479E01B}
 		{22B0150C-9C19-4F7E-AE17-99A4E479E01B} = {44674757-2D34-4A3D-83CA-DF992003865D}
+		{D56B0218-CF8B-4568-841D-135D165D46FB} = {22B0150C-9C19-4F7E-AE17-99A4E479E01B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EA7C0C97-7DE3-48D5-96DD-806D4130D488}

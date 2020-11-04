@@ -11,7 +11,6 @@
 
   <ItemGroup>
     <Folder Include="Extensions\Common\" />
-    <Folder Include="Extensions\Middleware\" />
   </ItemGroup>
 
   <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>

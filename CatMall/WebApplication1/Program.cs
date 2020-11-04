@@ -1,7 +1,13 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
-namespace CatMall.APIGateWay
+using Microsoft.Extensions.Logging;
+
+namespace WebApplication1
 {
     public class Program
     {
